@@ -77,10 +77,10 @@
 
 <p align="left">
 
-![Twitter Badge](https://img.shields.io/badge/-@ParthoMajumdar5-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/ParthoMajumdar5)
-![Linkedin Badge](https://img.shields.io/badge/-Partho%20Majumdar-0A66C2?style=flat&labelColor=0A66C2&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/partho-majumdar-7a0504216/)
-![Instagram Badge](https://img.shields.io/badge/-@ig__parth05-E4405F?style=flat&labelColor=E4405F&logo=instagram&logoColor=white&link=https://www.instagram.com/ig_parth05/)
-![Facebook Badge](https://img.shields.io/badge/-Partho%20Majumdar-1877F2?style=flat&labelColor=1877F2&logo=facebook&logoColor=white&link=https://www.facebook.com/partho.protim.9047)
+[![Twitter Badge](https://img.shields.io/badge/-@ParthoMajumdar5-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white)](https://twitter.com/ParthoMajumdar5)
+[![Linkedin Badge](https://img.shields.io/badge/-Partho%20Majumdar-0A66C2?style=flat&labelColor=0A66C2&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/partho-majumdar-7a0504216/)
+[![Instagram Badge](https://img.shields.io/badge/-@ig__parth05-E4405F?style=flat&labelColor=E4405F&logo=instagram&logoColor=white)](https://www.instagram.com/ig_parth05/)
+[![Facebook Badge](https://img.shields.io/badge/-Partho%20Majumdar-1877F2?style=flat&labelColor=1877F2&logo=facebook&logoColor=white)](https://www.facebook.com/partho.protim.9047)
 
 </p>
 
