@@ -11,37 +11,43 @@
 
 ## 🙋‍♂️ <b>About Me</b>
 
-<!-- - 🔭 I’m currently working on **** -->
+<!-- - 🔭 I’m currently working on ** ** -->
 
-- 💡 I love to explore new **Technologies**
+- 💡 I love to explore new **Technologies** and enjoy **Programming**
 
 - 🪐 Highly Passionate about **DevOps**
+
+<!-- - 💻 Most used line of code **System.out.println()** -->
+
 - 🌱 I’m currently learning **Data Structure and Algorithms**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://parthomajumdar.com)**
+- 👨‍💻 All of my projects are available at my **[Portfolio](https://parthomajumdar.com)**
 
-- 📫 How to reach me **[ig_parth05](https://www.instagram.com/ig_parth05/)**
+- 📫 How to reach me : **[Twitter](https://twitter.com/ParthoMajumdar5)**
 
 - 🤞 2022 Goals : Contribute more to **Competitive Programming**
 
 ## 🌩️ <b>Tech Stack</b>
 
 <p align="left">
-   <code><img src="https://img.icons8.com/color/40/000000/java-coffee-cup-logo--v1.png"/></code>
-   <code><img src="https://img.icons8.com/color/35/000000/html-5.png"/></code>
-   <code><img src="https://img.icons8.com/color/35/000000/css3.png"/></code>
-   <code><img src="https://img.icons8.com/color/35/000000/javascript.png"/></code>
-   <code><img src="https://img.icons8.com/color/35/000000/bootstrap.png"/></code>
-   <code><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="35" height="35"/></code>
-   <code><img src="https://img.icons8.com/color/30/000000/material-ui.png"/></code>
-   <code><img src="https://img.icons8.com/color/30/000000/react-native.png"/></code>
-   <code><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="32" height="32"/></code>
-   <code><img src="https://img.icons8.com/color/35/000000/firebase.png"/></code>
-   <code><img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="30" height="30"/></code>
-   <code><img src="https://img.icons8.com/color/40/000000/nodejs.png"/></code>
-   <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/></code>
+
+[![Java Badge](https://img.shields.io/badge/-Java-507E9C?style=for-the-badge&labelColor=F8E2CF&logo=Java&logoColor=507E9C)](#)
+[![Javascript Badge](https://img.shields.io/badge/-Javascript-F7DF1E?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F7DF1E)](#)
+[![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)
+[![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#)
+[![Expressjs Badge](https://img.shields.io/badge/-Expressjs-000000?style=for-the-badge&labelColor=F6F5F5&logo=express&logoColor=000000)](#)
+[![MongoDB Badge](https://img.shields.io/badge/-Mongodb-47A248?style=for-the-badge&labelColor=black&logo=Mongodb&logoColor=47A248)](#)
+[![Firebase Badge](https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&labelColor=black&logo=Firebase&logoColor=FFCA28)](#)
+
+## <b> 🛠️ Tools</b>
+
+[![Intellij Idea Badge](https://img.shields.io/badge/-Intellij%20Idea-000000?style=for-the-badge&labelColor=F6F5F5&logo=intellijidea&logoColor=000000)](#)
+[![Visual Studio Badge](https://img.shields.io/badge/-Visual%20Studio-007ACC?style=for-the-badge&labelColor=black&logo=visualstudio&logoColor=007ACC)](#)
+[![Git Badge](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&labelColor=black&logo=git&logoColor=F05032)](#)
+[![Heroku Badge](https://img.shields.io/badge/-Heroku-430098?style=for-the-badge&labelColor=black&logo=Heroku&logoColor=430098)](#)
+
 </p>
 
 <br/>
@@ -71,10 +77,10 @@
 
 <p align="left">
 
-<a href="https://www.linkedin.com/in/partho-majumdar-7a0504216/" target="_blank"><img src="https://img.icons8.com/stickers/45/000000/linkedin.png"/></a>
-<a href="https://twitter.com/ParthoMajumdar5" target="_blank"><img src="https://img.icons8.com/stickers/45/000000/twitter.png"/></a>
-<a href="https://www.instagram.com/ig_parth05/" target="_blank"><img src="https://img.icons8.com/stickers/45/000000/instagram-new--v2.png"/></a>
-<a href="https://www.facebook.com/partho.protim.9047" target="_blank"><img src="https://img.icons8.com/stickers/45/000000/facebook-new--v1.png"/></a>
+![Twitter Badge](https://img.shields.io/badge/-@ParthoMajumdar5-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/ParthoMajumdar5)
+![Linkedin Badge](https://img.shields.io/badge/-Partho%20Majumdar-0A66C2?style=flat&labelColor=0A66C2&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/partho-majumdar-7a0504216/)
+![Instagram Badge](https://img.shields.io/badge/-@ig__parth05-E4405F?style=flat&labelColor=E4405F&logo=instagram&logoColor=white&link=https://www.instagram.com/ig_parth05/)
+![Facebook Badge](https://img.shields.io/badge/-Partho%20Majumdar-1877F2?style=flat&labelColor=1877F2&logo=facebook&logoColor=white&link=https://www.facebook.com/partho.protim.9047)
 
 </p>
 
@@ -84,4 +90,3 @@
     <img src="https://komarev.com/ghpvc/?username=heiparth05">
 </a> &nbsp;
 <a href="https://github.com/heiparth05?tab=followers"><img src="https://img.shields.io/github/followers/heiparth05?label=Followers&style=social" alt="GitHub Badge"></a> -->
-
