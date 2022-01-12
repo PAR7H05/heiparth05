@@ -15,7 +15,7 @@
 
 - 💡 I love to explore new **Technologies** and enjoy **Programming**
 
-- 🪐 Highly Passionate about **DevOps**
+<!-- - 🪐 Highly Passionate about **DevOps** -->
 
 <!-- - 💻 Most used line of code **System.out.println()** -->
 
@@ -33,7 +33,7 @@
 
 <p align="left">
 
-[![Java Badge](https://img.shields.io/badge/-Java-507E9C?style=for-the-badge&labelColor=F8E2CF&logo=Java&logoColor=507E9C)](#)
+[![Java Badge](https://img.shields.io/badge/-Java-507E9C?style=for-the-badge&labelColor=black&logo=Java&logoColor=E06C00)](#)
 [![Javascript Badge](https://img.shields.io/badge/-Javascript-F7DF1E?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F7DF1E)](#)
 [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)
 [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#)
