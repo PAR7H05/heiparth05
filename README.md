@@ -7,7 +7,7 @@
 <h1 align="center">Hei <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Partho</h1> 
 <h3 align="center"> I'm a Junior <b>MERN Stack</b> Developer From Bangladesh.</h3> <br />
 
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter"><img src="https://komarev.com/ghpvc/?username=heiparth05"></a>
+<a href="https://github.com/heiparth05/github-profile-views-counter"><img src="https://komarev.com/ghpvc/?username=heiparth05"></a>
 
 ## 🙋‍♂️ <b>About Me</b>
 
@@ -15,7 +15,7 @@
 
 - 💡 I love to explore new **Technologies** and enjoy **Programming**
 
-<!-- - 🪐 Highly Passionate about **DevOps** -->
+- 🪐 Highly Passionate about **DevOps**
 
 <!-- - 💻 Most used line of code **System.out.println()** -->
 
@@ -86,7 +86,7 @@
 
 <!-- ## <b>❤️ Views And Followers</b>
 
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+<a href="https://github.com/heiparth05/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=heiparth05">
 </a> &nbsp;
 <a href="https://github.com/heiparth05?tab=followers"><img src="https://img.shields.io/github/followers/heiparth05?label=Followers&style=social" alt="GitHub Badge"></a> -->
