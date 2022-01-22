@@ -1,10 +1,11 @@
 <h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!...+;This+is+Partho...;Nice+to+meet+you!&center=true&size=33">
-  </a>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=fira+code&color=%2336BCF7&size=32&center=true&vCenter=true&width=500&height=40&lines=Hello%2C+There!...;Glad+to+see+you+here+%F0%9F%98%8A)](https://git.io/typing-svg)
+
 </h1>
 
-<h1 align="center">Hei <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Partho</h1> 
+<h1 align="center">Hei <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30px">, I'm Partho</h1> 
+
 <h3 align="center"> I'm a Junior <b>MERN Stack</b> Developer From Bangladesh.</h3> <br />
 
 <a href="https://github.com/heiparth05/github-profile-views-counter"><img src="https://komarev.com/ghpvc/?username=heiparth05"></a>
@@ -77,16 +78,14 @@
 
 <p align="left">
 
-[![Twitter Badge](https://img.shields.io/badge/-@ParthoMajumdar5-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white)](https://twitter.com/ParthoMajumdar5)
+<!-- [![Twitter Badge](https://img.shields.io/badge/-@ParthoMajumdar5-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white)](https://twitter.com/ParthoMajumdar5)
 [![Linkedin Badge](https://img.shields.io/badge/-Partho%20Majumdar-0A66C2?style=flat&labelColor=0A66C2&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/partho-majumdar-7a0504216/)
 [![Instagram Badge](https://img.shields.io/badge/-@ig__parth05-E4405F?style=flat&labelColor=E4405F&logo=instagram&logoColor=white)](https://www.instagram.com/ig_parth05/)
-[![Facebook Badge](https://img.shields.io/badge/-Partho%20Majumdar-1877F2?style=flat&labelColor=1877F2&logo=facebook&logoColor=white)](https://www.facebook.com/partho.protim.9047)
+[![Facebook Badge](https://img.shields.io/badge/-Partho%20Majumdar-1877F2?style=flat&labelColor=1877F2&logo=facebook&logoColor=white)](https://www.facebook.com/partho.protim.9047) -->
+
+[![Twitter](https://img.shields.io/badge/-Twitter-090909?style=for-the-badge&logo=Twitter&logoColor=1C9DEB)](https://twitter.com/ParthoMajumdar5)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=linkedin&logoColor=007BB6)](https://www.linkedin.com/in/partho-majumdar-7a0504216)
+[![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram&logoColor=B4068E)](https://www.instagram.com/ig_parth05/)
+[![Facebook](https://img.shields.io/badge/-Facebook-090909?style=for-the-badge&logo=Facebook&logoColor=1195F5)](https://www.facebook.com/partho.protim.9047)
 
 </p>
-
-<!-- ## <b>❤️ Views And Followers</b>
-
-<a href="https://github.com/heiparth05/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=heiparth05">
-</a> &nbsp;
-<a href="https://github.com/heiparth05?tab=followers"><img src="https://img.shields.io/github/followers/heiparth05?label=Followers&style=social" alt="GitHub Badge"></a> -->
