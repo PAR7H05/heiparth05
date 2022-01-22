@@ -1,13 +1,12 @@
 <h1 align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=fira+code&color=%2336BCF7&size=32&center=true&vCenter=true&width=500&height=40&lines=Hello%2C+There!...;Glad+to+see+you+here+%F0%9F%98%8A)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=fira+code&color=%2336BCF7&size=27&center=true&vCenter=true&width=500&height=40&lines=Hello%2C+There!...;Glad+to+see+you+here+%F0%9F%98%8A)](https://git.io/typing-svg)
 
 </h1>
 
 <h1 align="center">Hei <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30px">, I'm Partho</h1> 
 
 <h3 align="center"> I'm a Junior <b>MERN Stack</b> Developer From Bangladesh.</h3> <br />
-
 <a href="https://github.com/heiparth05/github-profile-views-counter"><img src="https://komarev.com/ghpvc/?username=heiparth05"></a>
 
 ## 🙋‍♂️ <b>About Me</b>
