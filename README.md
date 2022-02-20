@@ -34,6 +34,7 @@
 <p align="left">
 
 [![Java Badge](https://img.shields.io/badge/-Java-507E9C?style=for-the-badge&labelColor=black&logo=Java&logoColor=E06C00)](#)
+[![Python Badge](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&labelColor=F6F5F5&logo=python&logoColor=3776AB)](#)
 [![Javascript Badge](https://img.shields.io/badge/-Javascript-F7DF1E?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F7DF1E)](#)
 [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)
 [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#)
@@ -44,6 +45,7 @@
 ## <b> 🛠️ Tools</b>
 
 [![Intellij Idea Badge](https://img.shields.io/badge/-Intellij%20Idea-000000?style=for-the-badge&labelColor=F6F5F5&logo=intellijidea&logoColor=000000)](#)
+[![PyCharm Badge](https://img.shields.io/badge/-PyCharm-000000?style=for-the-badge&labelColor=F6F5F5&logo=pycharm&logoColor=000000)](#)
 [![Visual Studio Badge](https://img.shields.io/badge/-Visual%20Studio-007ACC?style=for-the-badge&labelColor=black&logo=visualstudio&logoColor=007ACC)](#)
 [![Git Badge](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&labelColor=black&logo=git&logoColor=F05032)](#)
 [![Heroku Badge](https://img.shields.io/badge/-Heroku-430098?style=for-the-badge&labelColor=black&logo=Heroku&logoColor=430098)](#)
