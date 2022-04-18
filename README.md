@@ -7,7 +7,7 @@
 <h1 align="center">Hei <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30px">, I'm Partho</h1>
 
 <h3 align="center"> I'm a Junior <b>MERN Stack</b> Developer From Bangladesh.</h3> <br />
-<a href="https://github.com/PAR7H05/github-profile-views-counter"><img src="https://komarev.com/ghpvc/?username=PAR7H05"></a>
+<a href="https://github.com/partho-majumdar/github-profile-views-counter"><img src="https://komarev.com/ghpvc/?username=partho-majumdar"></a>
 
 ## 🙋‍♂️ <b>About Me</b>
 
@@ -55,15 +55,15 @@
 <br/>
 
 <p align="center">
-    <a href="https://github.com/PAR7H05/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Partho Majumdar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=PAR7H05&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    <a href="https://github.com/partho-majumdar/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Partho Majumdar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=partho-majumdar&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
 
 ## 📊 <b>My Github Analytics</b>
 
-<a href="https://github.com/PAR7H05/github-readme-stats"><img alt="Partho Majumdar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=PAR7H05&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a> &nbsp; &nbsp; &nbsp;
-<a href="https://github.com/PAR7H05/github-readme-stats"><img alt="Partho Majumdar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PAR7H05&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+<a href="https://github.com/partho-majumdar/github-readme-stats"><img alt="Partho Majumdar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=partho-majumdar&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a> &nbsp; &nbsp; &nbsp;
+<a href="https://github.com/partho-majumdar/github-readme-stats"><img alt="Partho Majumdar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=partho-majumdar&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
 
 <br/>
 
@@ -71,7 +71,7 @@
 
 <br/>
 
-<a href="https://github.com/PAR7H05/github-readme-activity-graph"><img alt="Partho Majumdar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=PAR7H05&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/partho-majumdar/github-readme-activity-graph"><img alt="Partho Majumdar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=partho-majumdar&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 
