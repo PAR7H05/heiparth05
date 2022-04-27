@@ -73,6 +73,8 @@
 
 <a href="https://github.com/partho-majumdar/github-readme-activity-graph"><img alt="Partho Majumdar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=partho-majumdar&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
+![snake gif](https://github.com/partho-majumdar/partho-majumdar/blob/output/github-contribution-grid-snake.svg)
+
 <br/>
 
 ## <b>🤝🤝 Connect With Me :</b>
