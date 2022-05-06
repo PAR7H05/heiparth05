@@ -6,7 +6,7 @@
 
 <h1 align="center">Hei <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30px">, I'm Partho</h1>
 
-<h3 align="center"> I'm a Junior <b>MERN Stack</b> Developer From Bangladesh.</h3> <br />
+<h3 align="center"> I'm a Junior <b>MERN Stack</b> Developer and <b>DevOps</b> Enthusiast .</h3> <br />
 <a href="https://github.com/partho-majumdar/github-profile-views-counter"><img src="https://komarev.com/ghpvc/?username=partho-majumdar"></a>
 
 ## 🙋‍♂️ <b>About Me</b>
@@ -15,7 +15,7 @@
 
 - 💡 I love to explore new **Technologies** and enjoy **Programming**
 
-- 🪐 Highly Passionate about **DevOps**
+- 🪐 Highly Passionate about **Data Science 😉**
 
 <!-- - 💻 Most used line of code **System.out.println()** -->
 
