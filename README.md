@@ -1,12 +1,12 @@
 <h1 align="center">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=fira+code&color=%2336BCF7&size=27&center=true&vCenter=true&width=500&height=40&lines=Hello%2C+There!+.+.+.;Glad+to+see+you+here+%F0%9F%98%8A)](https://git.io/typing-svg)
-
+ 
 </h1>
 
-<h1 align="center">Hei <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30px">, I'm Partho</h1>
+<h1 align="center">Hi <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30px">, I'm Partho</h1>
 
-<h3 align="center"> I'm a Junior <b>MERN Stack</b> Developer and <b>DevOps</b> Enthusiast</h3> <br />
+<h3 align="center"> I'm a Jr. <b>MERN Stack</b> Developer and <b>DevOps</b> Enthusiast</h3> <br />
 <a href="https://github.com/partho-majumdar/github-profile-views-counter"><img src="https://komarev.com/ghpvc/?username=partho-majumdar"></a>
 
 ## 🙋‍♂️ <b>About Me</b>
@@ -15,7 +15,7 @@
 
 - 💡 I love to explore new **Technologies** and enjoy **Programming**
 
-- 🪐 Highly Passionate about **Data Science 😉**
+- 🪐 Highly Passionate about **Cloud 😉**
 
 <!-- - 💻 Most used line of code **System.out.println()** -->
 
