@@ -35,6 +35,7 @@
 
 <p align="left">
 
+[![C Badge](https://img.shields.io/badge/-Language-A8B9CC?style=for-the-badge&labelColor=black&logo=c&logoColor=A8B9CC)](#)
 [![Java Badge](https://img.shields.io/badge/-Java-507E9C?style=for-the-badge&labelColor=black&logo=Java&logoColor=E06C00)](#)
 [![Python Badge](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&labelColor=F6F5F5&logo=python&logoColor=3776AB)](#)
 [![Javascript Badge](https://img.shields.io/badge/-Javascript-F7DF1E?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F7DF1E)](#)
@@ -88,7 +89,7 @@
 
 [![Twitter](https://img.shields.io/badge/-Twitter-090909?style=for-the-badge&logo=Twitter&logoColor=1C9DEB)](https://twitter.com/ParthoMajumdar5)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=linkedin&logoColor=007BB6)](https://www.linkedin.com/in/partho-majumdar-7a0504216)
-[![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram&logoColor=B4068E)](https://www.instagram.com/ig.partho/)
 [![Facebook](https://img.shields.io/badge/-Facebook-090909?style=for-the-badge&logo=Facebook&logoColor=1195F5)](https://www.facebook.com/partho.protim.9047)
+<!-- [![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram&logoColor=B4068E)](https://www.instagram.com/ig.partho/) -->
 
 </p>
