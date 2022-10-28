@@ -8,7 +8,7 @@
 
 <h1 align="center">Hi, I am Partho</h1>
 
-<h3 align="center"> I'm a Jr. <b>MERN Stack</b> Developer and <b>Data Science</b> Enthusiast</h3> <br />
+<h3 align="center"> So-called Jr. <b>MERN Stack</b> Developer and <b>Data Science</b> Enthusiast</h3> <br />
 <a href="https://github.com/partho-majumdar/github-profile-views-counter"><img src="https://komarev.com/ghpvc/?username=partho-majumdar"></a>
 
 ## 🙋‍♂️ <b>About Me</b>
