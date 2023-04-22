@@ -4,9 +4,9 @@
 
 </h1>
 
-<!-- <h1 align="center">Hi <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30px">, I'm Partho</h1> -->
+<h1 align="center">Hi <img src="https://github.githubassets.com/images/mona-whisper.gif" height="35" />, I am Partho </h1>
 
-<h1 align="center">Hi, I am Partho </h1>
+<!-- <h1 align="center">Hi <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30px">, I'm Partho</h1> -->
 
 <!-- <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> -->
 
@@ -77,7 +77,7 @@
 
 <br/>
 
-<!-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> -->
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?partho-majumdar=#partho-majumdar&theme=dracula&hide_border=true)
 
 <br/>
 
