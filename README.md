@@ -1,14 +1,17 @@
 <h1 align="center">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=fira+code&color=%2336BCF7&size=27&center=true&vCenter=true&width=500&height=40&lines=Hello%2C+There!+.+.+.;Glad+to+see+you+here+%F0%9F%98%8A)](https://git.io/typing-svg)
- 
+
 </h1>
 
 <!-- <h1 align="center">Hi <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30px">, I'm Partho</h1> -->
 
-<h1 align="center">Hi, I am Partho</h1>
+<h1 align="center">Hi, I am Partho </h1>
 
-<h3 align="center"> So-called Jr. <b>MERN Stack</b> Developer and <b>Data Science</b> Enthusiast</h3> <br />
+<!-- <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> -->
+
+<h3 align="center"> <b> 𝘑̶𝘳̶.̶ 𝘔̶𝘌̶𝘙̶𝘕̶ 𝘚̶𝘵̶𝘢̶𝘤̶𝘬̶ 𝘋̶𝘦̶𝘷̶𝘦̶𝘭̶𝘰̶𝘱̶𝘦̶𝘳̶ </b> and <b>MLOps</b> Enthusiast</h3> <br />
+
 <a href="https://github.com/partho-majumdar/github-profile-views-counter"><img src="https://komarev.com/ghpvc/?username=partho-majumdar"></a>
 
 ## 🙋‍♂️ <b>About Me</b>
@@ -29,9 +32,9 @@
 
 - 📫 How to reach me : **[Twitter](https://twitter.com/ParthoMajumdar5)**
 
-- 🤞 2022 Goals : Contribute more to **Competitive Programming**
+- 🤞 2023 Goals : Putting steps into the **MLOps** world
 
-## 🌩️ <b>Tech Stack</b>
+## ⚡ <b>Tech Stack</b>
 
 <p align="left">
 
@@ -74,7 +77,7 @@
 
 <br/>
 
-<a href="https://github.com/partho-majumdar/github-readme-activity-graph"><img alt="Partho Majumdar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=partho-majumdar&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<!-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> -->
 
 <br/>
 
@@ -87,9 +90,12 @@
 [![Instagram Badge](https://img.shields.io/badge/-@ig__parth05-E4405F?style=flat&labelColor=E4405F&logo=instagram&logoColor=white)](https://www.instagram.com/ig_parth05/)
 [![Facebook Badge](https://img.shields.io/badge/-Partho%20Majumdar-1877F2?style=flat&labelColor=1877F2&logo=facebook&logoColor=white)](https://www.facebook.com/partho.protim.9047) -->
 
-[![Twitter](https://img.shields.io/badge/-Twitter-090909?style=for-the-badge&logo=Twitter&logoColor=1C9DEB)](https://twitter.com/ParthoMajumdar5)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=linkedin&logoColor=007BB6)](https://www.linkedin.com/in/partho-majumdar-7a0504216)
-[![Facebook](https://img.shields.io/badge/-Facebook-090909?style=for-the-badge&logo=Facebook&logoColor=1195F5)](https://www.facebook.com/partho.protim.9047)
+[![Twitter](https://img.shields.io/badge/-Twitter-090909?style=for-the-badge&logo=Twitter&logoColor=1C9DEB)](https://twitter.com/ParthoMajumdar5)
+<a href="mailto:heipartho72@gmail.com">![heipartho72@gmail.com](https://img.shields.io/badge/-Gmail-090909?style=for-the-badge&logo=Gmail&logoColor=EA4335)
+
+<!-- [![Facebook](https://img.shields.io/badge/-Gmail-090909?style=for-the-badge&logo=Gmail&logoColor=EA4335)](https://www.facebook.com/partho.protim.9047) -->
+
 <!-- [![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram&logoColor=B4068E)](https://www.instagram.com/ig.partho/) -->
 
 </p>
