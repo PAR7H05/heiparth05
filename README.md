@@ -4,7 +4,7 @@
 
 </h1>
 
-<h1 align="center">Hi <img src="https://github.githubassets.com/images/mona-whisper.gif" height="35" />, I am Partho </h1>
+<h1 align="center">Hi <img src="https://github.githubassets.com/images/mona-whisper.gif" height="30" />, I am Partho </h1>
 
 <!-- <h1 align="center">Hi <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30px">, I'm Partho</h1> -->
 
@@ -77,7 +77,7 @@
 
 <br/>
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?partho-majumdar=#partho-majumdar&theme=dracula&hide_border=true)
+<!-- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?partho-majumdar=#partho-majumdar&theme=dracula&hide_border=true) -->
 
 <br/>
 
