@@ -6,29 +6,21 @@
 
 <h1 align="center">Hi <img src="https://github.githubassets.com/images/mona-whisper.gif" height="30" />, I am Partho </h1>
 
-<!-- <h1 align="center">Hi <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30px">, I'm Partho</h1> -->
-
-<!-- <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> -->
-
-<h3 align="center"> <b> 𝘑̶𝘳̶.̶ 𝘔̶𝘌̶𝘙̶𝘕̶ 𝘚̶𝘵̶𝘢̶𝘤̶𝘬̶ 𝘋̶𝘦̶𝘷̶𝘦̶𝘭̶𝘰̶𝘱̶𝘦̶𝘳̶ </b> and <b>MLOps</b> Enthusiast</h3> <br />
+<h3 align="center"> <b> 𝘑̶𝘳̶.̶ 𝘔̶𝘌̶𝘙̶𝘕̶ 𝘚̶𝘵̶𝘢̶𝘤̶𝘬̶ 𝘋̶𝘦̶𝘷̶𝘦̶𝘭̶𝘰̶𝘱̶𝘦̶𝘳̶ </b> and <b>MLOps<b> Enthusiast</h3> <br/>
 
 <a href="https://github.com/partho-majumdar/github-profile-views-counter"><img src="https://komarev.com/ghpvc/?username=partho-majumdar"></a>
 
 ## 🙋‍♂️ <b>About Me</b>
 
-<!-- - 🔭 I’m currently working on ** ** -->
-
 - 💡 I love to explore new **Technologies** and enjoy **Programming**
 
 - 🪐 Highly Passionate about **Machine Learning 😉**
-
-<!-- - 💻 Most used line of code **System.out.println()** -->
 
 - 🌱 I’m currently learning **Data Structure and Algorithms**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 👨‍💻 All of my projects are available at my **[Portfolio](https://parthomajumdar.com)**
+- 👨‍💻 All of my projects are available at my **[Portfolio](https://)**
 
 - 📫 How to reach me : **[Twitter](https://twitter.com/ParthoMajumdar5)**
 
@@ -77,25 +69,13 @@
 
 <br/>
 
-<!-- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?partho-majumdar=#partho-majumdar&theme=dracula&hide_border=true) -->
-
-<br/>
-
 ## <b>🤝🤝 Connect With Me :</b>
 
 <p align="left">
 
-<!-- [![Twitter Badge](https://img.shields.io/badge/-@ParthoMajumdar5-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white)](https://twitter.com/ParthoMajumdar5)
-[![Linkedin Badge](https://img.shields.io/badge/-Partho%20Majumdar-0A66C2?style=flat&labelColor=0A66C2&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/partho-majumdar-7a0504216/)
-[![Instagram Badge](https://img.shields.io/badge/-@ig__parth05-E4405F?style=flat&labelColor=E4405F&logo=instagram&logoColor=white)](https://www.instagram.com/ig_parth05/)
-[![Facebook Badge](https://img.shields.io/badge/-Partho%20Majumdar-1877F2?style=flat&labelColor=1877F2&logo=facebook&logoColor=white)](https://www.facebook.com/partho.protim.9047) -->
-
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=linkedin&logoColor=007BB6)](https://www.linkedin.com/in/partho-majumdar-7a0504216)
 [![Twitter](https://img.shields.io/badge/-Twitter-090909?style=for-the-badge&logo=Twitter&logoColor=1C9DEB)](https://twitter.com/ParthoMajumdar5)
+[![Messenger](https://img.shields.io/badge/Messenger-090909?style=for-the-badge&logo=messenger&logoColor=white)](https://m.me/partho.protim.9047)
 <a href="mailto:heipartho72@gmail.com">![heipartho72@gmail.com](https://img.shields.io/badge/-Gmail-090909?style=for-the-badge&logo=Gmail&logoColor=EA4335)
-
-<!-- [![Facebook](https://img.shields.io/badge/-Gmail-090909?style=for-the-badge&logo=Gmail&logoColor=EA4335)](https://www.facebook.com/partho.protim.9047) -->
-
-<!-- [![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram&logoColor=B4068E)](https://www.instagram.com/ig.partho/) -->
 
 </p>
