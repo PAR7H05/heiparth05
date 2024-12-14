@@ -14,17 +14,17 @@
 
 - 💡 I love to explore new **Technologies** and enjoy **Programming**
 
-- 🪐 Highly Passionate about **Machine Learning 😉**
+- 🪐 Highly Passionate about **AI / ML 😉**
 
-- 🌱 I’m currently learning **Data Structure and Algorithms**
+- 🌱 I’m currently learning **Machine Learning**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
 - 👨‍💻 All of my projects are available at my **[Portfolio](https://)**
 
-- 📫 How to reach me : **[Twitter](https://twitter.com/ParthoMajumdar5)**
+- 📫 How to reach me : **[Linkedin](https://www.linkedin.com/in/partho-majumdar-7a0504216)**
 
-- 🤞 2023 Goals : Putting steps into the **MLOps** world
+- 🤞 2025 Goals : Putting steps into the **MLOps** world
 
 ## ⚡ <b>Tech Stack</b>
 
